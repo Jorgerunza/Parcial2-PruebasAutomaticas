@@ -1,8 +1,5 @@
-Mutant 30: 
-C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant30\\AndroidManifest.xml; 
+Mutant 1: 
+C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant1\\AndroidManifest.xml; 
+InvalidActivityPATH in line 75
 
-ActivityNotDefined in line 75
-
-
-
-se elimina actividad com.fsck.k9.activity.Accounts
+se modifica la linea  de android:name=".activity.Accounts" a android:name=".activity.Aoccunts".

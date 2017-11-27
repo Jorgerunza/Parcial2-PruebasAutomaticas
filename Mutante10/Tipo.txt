@@ -1,0 +1,9 @@
+Mutant 1386: 
+tmp/mutants/com.fsck.k9-mutant1386//java/com/fsck/k9/activity/Accounts.java; 
+
+NullValueIntentPutExtra in line 349
+
+Se modifica el parametro de entrada de la funcion 
+
+intent.putExtra(EXTRA_STARTUP, false); a
+intent.putExtra(EXTRA_STARTUP,new android.os.Parcelable[0]);

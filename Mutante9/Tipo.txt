@@ -1,0 +1,8 @@
+Mutant 1321: 
+tmp/mutants/com.fsck.k9-mutant1321//java/com/fsck/k9/mailstore/LocalFolder.java; 
+
+InvalidSQLQuery in line 161
+
+Se modifica el cursor de base de datos a:
+
+  cursor = db.rawQuery(baseQuery + "85806aff354341c98e481d416f97870c", new String[] { name });
