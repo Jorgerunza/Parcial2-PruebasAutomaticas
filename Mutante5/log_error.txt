@@ -1,0 +1,23 @@
+:k9mail:processDebugManifest
+C:\Users\Jorge\Desktop\Parcial\k-9\k9mail\src\main\AndroidManifest.xml:212:9-228:20 Error:
+	Element activity#com.fsck.k9.activity.setup.AccountSetupAccountType at AndroidManifest.xml:212:9-228:20 duplicated with element declared at AndroidManifest.xml:117:9-120:71
+C:\Users\Jorge\Desktop\Parcial\k-9\k9mail\src\main\AndroidManifest.xml Error:
+	Validation failed, exiting
+
+
+See http://g.co/androidstudio/manifest-merger for more information about the manifest merger.
+
+:k9mail:processDebugManifest FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':k9mail:processDebugManifest'.
+> Manifest merger failed with multiple errors, see logs
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
+
+BUILD FAILED
+
+Total time: 1.159 secs

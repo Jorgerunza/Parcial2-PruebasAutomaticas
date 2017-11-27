@@ -1,0 +1,7 @@
+Mutant 1085: 
+tmp/mutants/com.fsck.k9-mutant1085//java/com/fsck/k9/activity/FolderList.java; 
+ViewComponentNotVisible in line 960
+
+
+Se modifica la linea 961 agregando la siguiente propiedad para ocultar el elemento  
+holder.folderName.setVisibility(android.view.View.INVISIBLE);

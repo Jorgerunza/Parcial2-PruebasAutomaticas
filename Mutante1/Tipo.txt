@@ -1,0 +1,7 @@
+Mutant 73: 
+C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant73\\AndroidManifest.xml; 
+
+MissingPermissionManifest in line 26
+
+
+se elimina permiso android.permission.WAKE_LOCK.

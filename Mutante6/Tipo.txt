@@ -1,0 +1,8 @@
+Mutant 1026: 
+tmp/mutants/com.fsck.k9-mutant1026//java/com/fsck/k9/mailstore/LocalFolder.java; 
+
+InvalidIndexQueryParameter in line 161
+
+Se modifica la linea cursor = db.rawQuery(baseQuery + "where folders.name = ?", new String[] { name });
+eliminando el parametro de entrada:
+cursor = db.rawQuery(baseQuery + "where folders.name = ?", new String[]{ });

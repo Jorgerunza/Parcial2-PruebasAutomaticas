@@ -1,0 +1,8 @@
+Mutant 30: 
+C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant30\\AndroidManifest.xml; 
+
+ActivityNotDefined in line 75
+
+
+
+se elimina actividad com.fsck.k9.activity.Accounts

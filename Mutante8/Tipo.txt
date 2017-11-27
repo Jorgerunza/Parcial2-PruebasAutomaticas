@@ -1,0 +1,5 @@
+Mutant 1190: 
+tmp/mutants/com.fsck.k9-mutant1190//java/com/fsck/k9/activity/setup/AccountSetupNames.java; 
+NullIntent in line 32
+
+Se modifica la linea 32 haciendo nula la variable Intent i = null;

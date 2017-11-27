@@ -1,0 +1,8 @@
+Mutant 182: 
+C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant182\\res\values\strings.xml; 
+
+WrongStringResource in line 181
+
+
+
+Se modifica   <string name="about_action">Acerca de</string> a  <string name="about_action">f521bdb8cb7f4fcf81be40239d164c16</string>

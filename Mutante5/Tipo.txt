@@ -1,0 +1,8 @@
+Mutant 1054: 
+C:\Users\Jorge\Desktop\Parcial\K9-mut\com.fsck.k9-mutant1054\\AndroidManifest.xml; 
+
+WrongMainActivity in line 212
+
+
+
+Se modifica android:name=".activity.MessageList" por android:name=".activity.setup.AccountSetupAccountType"
